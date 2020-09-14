@@ -1,0 +1,204 @@
+
+.QM{
+  display: inline-block;
+  margin-left: 70px;
+  color: white;
+  align: center;
+}
+body, html{
+  height: 100%;
+  margin: 0px;
+  font-family: "lato";
+
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+h2{
+  color: #d2d2d2;
+}
+p{
+  color: #9e9c9c;
+}
+h3{
+  text-transform: uppercase;
+  color: #bbbbbb;
+}
+
+.uqm{
+  width: 100%;
+  margin: 0px;
+  padding-left: 23%;
+  padding-right: 0%;
+  background-color:/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#31313c+23,606060+42,31313c+61 */
+background: #31313c; /* Old browsers */
+background: -moz-linear-gradient(left,  #31313c 23%, #606060 42%, #31313c 61%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #31313c 23%,#606060 42%,#31313c 61%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #31313c 23%,#606060 42%,#31313c 61%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#31313c', endColorstr='#31313c',GradientType=1 ); /* IE6-9 */
+;
+}
+.last{
+  margin-left: 70px;
+}
+.QuickMenue{
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+}
+td{
+  height: 100%;
+}
+.newtable{
+  padding: 10px;
+border-collapse: collapse;
+
+}
+.newraw{
+  padding: 10px;
+border: 7px solid black;
+border-collapse: collapse;
+border: solid 7px;
+border-top-color: #a29a9a;
+border-right-color: #8d93a2;
+border-bottom-color: #2d2f46;
+border-left-color: #394248;
+}
+.newitem{
+  padding: 10px;
+border: 7px solid black;
+border: solid 7px;
+border-top-color: #a29a9a5c;
+border-right-color: #8d93a2f5;
+border-bottom-color: #5c5d6ba1;
+border-left-color: #394248;
+border-collapse: collapse;
+}
+tr{
+}
+.td{
+  height: 50%;
+
+}
+.cvimg{
+  border: 1px solid;
+  border-color: #31313c;
+  border-radius: 150px;
+  filter: grayscale(100);
+  opacity: 70%;
+}
+.pimg1{
+  background-image: url('pexels-pixabay-267885.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  margin-top: -23px;
+
+}
+.pimg2{
+  background-image: url('skills.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+
+}
+.pimg3{
+  background-image: url('adult-architect-blueprint-business-416405.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.pimg4{
+  background-image: url('stack-of-opened-books-on-wooden-table-192928.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.section{
+  background: #c1c1c1;
+}
+
+table{
+    height: 100%;
+    margin-top: 58px;
+    display: inline-block;
+}
+.table{
+  height: 50%;
+  margin: 0;
+
+}
+img{
+}
+
+
+.infol{
+  position: fixed;
+  margin-left: -2px;
+  background-color: #31313c;
+}
+h1{
+  font-weight: bold;
+  display: inline-block;
+  font-size: 32px;
+  padding: 10px;
+  color: #31313c;
+  text-transform: uppercase;
+}
+.border{
+  color: #d2d2d2;
+  font-size: 28px;
+  margin-top: 70px;
+  border: 2px solid;
+  border-left: 0px;
+  border-color: #ffffffa6;
+  margin-right: 318px;
+  padding-top: 11px;
+  padding-right: 11px;
+  padding-bottom: 11px;
+  padding-left: 11px;
+  background-color: #31313c61;
+}
+.border1{
+    color: #d2d2d2;
+    font-size: 28px;
+    margin-top: 100px;
+    border: 2px solid;
+    margin-bottom: 120px;
+    border-color: #ffffffa6;
+    margin-right: 255px;
+    margin-left: 112px;
+    padding-top: 6px;
+    padding-bottom: 30px;
+    padding-left: 11px;
+    padding-right: 10px;
+    background-color: #31313c61;
+}
+.border2{
+  color: #d2d2d2;
+font-size: 28px;
+margin-top: 104px;
+margin-left: 318px;
+background-color: #31313c61;
+padding-left: 11px;
+padding-top: 11px;
+padding-right: 11px;
+padding-bottom: 11px;
+border: 2px solid;
+border-color: #ffffffa6;
+border-right: 0px;
+margin-bottom: 70px;
+}
+.infoo{
+  position: fixed;
+  margin-left: -2px;
+  background-color: #31313c;
+}
+.infom{
+  width: 82%;
+  height: 100%;
+}
+dt{
+  font-size: 30px;
+}
